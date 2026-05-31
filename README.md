@@ -2,8 +2,8 @@
 
 Multi-Criteria Decision Making (MCDM) algorithm for prioritising building retrofit measures in a municipal or institutional building portfolio.
 
-**Published in:**
-> Ehlers, N. et al. (2025). *A multi-criteria approach for prioritising building envelope and HVAC retrofits in a municipal building portfolio.* Energy and Buildings.
+**To be published in:**
+> Ehlers, N. et al. (2026). *Building Portfolio Retrofit Pathways: A Generic Process Development and Case Study Application* Energy and Buildings.
 
 ---
 
