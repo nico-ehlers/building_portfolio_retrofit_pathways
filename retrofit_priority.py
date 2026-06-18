@@ -57,12 +57,12 @@ def qt_uniform(series: pd.Series) -> np.ndarray:
 
 # Maps the qualitative building-envelope assessment to a numeric score in [0, 1].
 ENVELOPE_POTENTIAL_MAP: dict[str, float] = {
-    "sehr hohes Verbesserungspotenzial":              1.00,
-    "hohes Verbesserungspotenzial":                   0.75,
-    "mittleres Verbesserungspotenzial":               0.50,
-    "mittleres Verbesserungspotenzial (ergänzt TUM)": 0.50,
-    "geringes Verbesserungspotenzial":                0.25,
-    "kaum Verbesserungspotenzial":                    0.00,
+    "Very high":              1.00,
+    "High":                   0.75,
+    "Medium":               0.50,
+    "Medium": 0.50,
+    "Low":                0.25,
+    "Negligible":                    0.00,
 }
 
 # ──────────────────────────────────────────────────────────────────────────────
