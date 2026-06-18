@@ -59,10 +59,9 @@ def qt_uniform(series: pd.Series) -> np.ndarray:
 ENVELOPE_POTENTIAL_MAP: dict[str, float] = {
     "Very high":              1.00,
     "High":                   0.75,
-    "Medium":               0.50,
-    "Medium": 0.50,
-    "Low":                0.25,
-    "Negligible":                    0.00,
+    "Medium":                 0.50,
+    "Low":                    0.25,
+    "Negligible":             0.00,
 }
 
 # ──────────────────────────────────────────────────────────────────────────────
